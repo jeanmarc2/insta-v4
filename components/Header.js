@@ -7,7 +7,7 @@ import { HomeIcon } from '@heroicons/react/solid'
 export default function Header() {
   return (
       
-      
+      <div className="shadow-sm border-b sticky top-0 bg-white z-30">
           
       <div className="flex items-center justify-between max-w-6xl mx-4 xl:mx-auto">
           {/**Left */ }
@@ -45,7 +45,8 @@ export default function Header() {
               <img src="https://images5.fanpop.com/image/photos/30200000/the-joker-the-joker-30239511-1025-756.jpg" alt="user picture"
                   className="h-10 rounded-full cursor-pointer" />
           </div>
-              </div>
+          </div>
+          </div>
               
   )
 }

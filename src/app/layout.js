@@ -16,7 +16,13 @@ export default function RootLayout({ children }) {
 
 
 {/**Feed */}
+<p>www.imdb.com › title › tt7286456Joker (2019) - IMDb
+Oct 4, 2019 · Joker: Directed by Todd Phillips. With Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy. The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.
 
+8.4/10 (1.4M)
+Genre: Crime, Drama, Thriller
+Director: Todd Phillips
+Release Date: 2019-10-04</p>
 
 {/**Modal */}
         
