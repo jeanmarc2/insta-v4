@@ -27,7 +27,7 @@ export default function Header() {
                       
                      layout="fill"
                       className="object-contain"
-                      alt="user image"
+                      alt="Website logo small"
                   />
           </div>
           {/**Middle */}
