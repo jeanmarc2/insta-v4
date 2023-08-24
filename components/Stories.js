@@ -8,7 +8,7 @@ import "minifaker/locales/en"
 export default function Stories() {
     const [storyUsers, setStoryUsers] = useState([]);
     useEffect(() => {
-        const storyUsers = minifaker.array(60, (i) => (
+        const storyUsers = minifaker.array(25, (i) => (
             {
                 username: minifaker.username({ locale : "en"}).toLowerCase(),
                 img: `https://i.pravatar.cc/150?img=${Math.floor(Math.random() * 70)}`,
