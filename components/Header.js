@@ -44,7 +44,7 @@ export default function Header() {
           <div className="flex space-x-4 items-center">
               <HomeIcon className='hidden md:inline-grid h-6 cursor-pointer hover:scale-125 transition-transform duration-200 ease-out'/>
               <PlusCircleIcon className='h-6 cursor-pointer hover:scale-125 transition-transform duration-200 ease-out'/>
-              <img src="https://images5.fanpop.com/image/photos/30200000/the-joker-the-joker-30239511-1025-756.jpg" alt="user picture"
+              <img src="https://images5.fanpop.com/image/photos/30200000/the-joker-the-joker-30239511-1025-756.jpg" alt="user-image"
                   className="h-10 rounded-full cursor-pointer" />
           </div>
           </div>
